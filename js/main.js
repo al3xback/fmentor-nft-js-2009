@@ -19,7 +19,7 @@ cardTitleIdEl.textContent = idsIsAnArray ? '#' + ids[ids.length - 1] : '';
 var description = [
 	'Our Equilibrium collection',
 	'promotes',
-	'balance and calm',
+	'balance and calm.',
 ];
 
 var descriptionText = '';
