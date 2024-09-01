@@ -15,7 +15,6 @@
 .DS_Store
 .prettierignore
 .prettierrc.json
-.prettierrc.json
 
 node_modules/
 dist/
